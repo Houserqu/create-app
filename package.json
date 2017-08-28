@@ -1,0 +1,31 @@
+{
+  "name": "create-app",
+  "version": "0.1.0",
+  "description": "create web cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./bin/houser",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Houserqu/create-app.git"
+  },
+  "keywords": [
+    "cli",
+    "web",
+    "js",
+    "create-app"
+  ],
+  "author": {
+    "name":"houser",
+    "email": "houserqu@qq.com",
+    "url": "http://houserqu.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Houserqu/create-app/issues"
+  },
+  "homepage": "https://github.com/Houserqu/create-app#readme"
+
+}
