@@ -1,5 +1,5 @@
 {
-  "name": "create-app",
+  "name": "houser-create-app",
   "version": "0.1.0",
   "description": "create web cli",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "create-app"
   ],
   "author": {
-    "name":"houser",
+    "name": "houser",
     "email": "houserqu@qq.com",
     "url": "http://houserqu.com"
   },
@@ -26,6 +26,8 @@
   "bugs": {
     "url": "https://github.com/Houserqu/create-app/issues"
   },
-  "homepage": "https://github.com/Houserqu/create-app#readme"
-
+  "homepage": "https://github.com/Houserqu/create-app#readme",
+  "dependencies": {
+    "commander": "^2.11.0"
+  }
 }
